@@ -1,0 +1,41 @@
+# Build
+build/
+build-*/
+out/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+cmake_install.cmake
+compile_commands.json
+
+# clangd
+.cache/
+
+# MSVC
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+.vs/
+
+# Binaries
+*.exe
+*.dll
+*.o
+*.a
+*.so
+
+# Editor
+.vscode/settings.json
+.vscode/.cmaketools.json
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

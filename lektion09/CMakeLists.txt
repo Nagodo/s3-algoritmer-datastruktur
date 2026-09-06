@@ -1,0 +1,1 @@
+add_opgave(opgave1.cpp)
